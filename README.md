@@ -5,10 +5,14 @@ I am Jacob Joshua
 #### Data Analyst
 
 Thank you, that you have visited my profile. As a Data Analyst with hands-on experience in Excel, SQL, and Power BI, I can help your business transform raw data into meaningful and actionable insights that can drive better decisions and improve overall performance  by finding trends and patterns in your data with high level of accuracy and attention to detail.​
+
 My skills include data analysis, visualization, and report generation, all of which are essential for any organization looking to make data-driven decisions. I have useful understanding of various data analysis techniques that can help your team extract meaningful insights from your data.
+
 ​Furthermore, I am an efficient communicator and an excellent collaborator in search of new opportunities.
 Should my skills represent what you're looking for or you have further inquiries, please feel free to reach out let's talk.
+
 Kind regards,
+
 Jacob.
 
 Skills: Excel | SQL | Power BI | Python
